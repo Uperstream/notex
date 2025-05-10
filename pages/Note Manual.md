@@ -1,6 +1,7 @@
 - Note manual, instruction
 - tags
-	-
+	- list of tags
+		- #情绪/
 	- All tags
 		- /project ?
 	- use "/" to structure the tags as folder system
