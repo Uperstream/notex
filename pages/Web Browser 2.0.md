@@ -8,6 +8,11 @@
 - ## Plan
 	- 早期众筹
 		- 笔记+RSS DEMO {{embed ((681f97a0-5a48-415d-8b69-c1f31f15dd69))}}
+-
+- ## Marketing
+	- ((681f9cd2-d5ed-4534-9aa8-eb36d8dacabc))
+-
+-
 - ## Features
 	- Advance
 		- Text caption
