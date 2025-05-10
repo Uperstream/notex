@@ -1,4 +1,5 @@
 - Note manual, instruction
 - tags
 	- can I use "/" to structure the tag?
-- use tags to structure
+	- merging tags?
+	- use tags to structure
