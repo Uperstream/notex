@@ -1,1 +1,3 @@
-- Note manual
+- Note manual, instruction
+- tags
+- use tag for
