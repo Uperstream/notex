@@ -12,12 +12,13 @@
 - ## Marketing
 	- ((681f9cd2-d5ed-4534-9aa8-eb36d8dacabc))
 -
--
 - ## Features
 	- Advance
 		- Text caption
 			- ((681f986f-cbe7-42d7-83c0-27da5be2112a))
 			- ((681f9868-69b4-4895-931e-f7e69f461c10))
+		- Status and Chatting
+-
 - ## DEMO
   id:: 681f97a0-5a48-415d-8b69-c1f31f15dd69
   collapsed:: true
