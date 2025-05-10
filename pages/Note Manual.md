@@ -1,5 +1,5 @@
 - Note manual, instruction
 - tags
 	- can I use "/" to structure the tag?
+		- use tags as the file tree
 	- merging tags?
-	- use tags to structure
