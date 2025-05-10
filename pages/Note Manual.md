@@ -1,3 +1,4 @@
 - Note manual, instruction
 - tags
-- use tag for
+	- can I use "/"
+- use tag for structure
