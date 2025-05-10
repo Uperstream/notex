@@ -1,5 +1,4 @@
 - Note manual, instruction
 - tags
-	- use "/" to structure the tags
-		- use tags as the file tree
+	- use "/" to structure the tags as folder system
 	- merging tags?
