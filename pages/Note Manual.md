@@ -1,4 +1,7 @@
 - Note manual, instruction
 - tags
+	- All tags
+		- /project ?
 	- use "/" to structure the tags as folder system
 	- merging tags?
+-
