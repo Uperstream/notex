@@ -1,9 +1,19 @@
 - Note manual, instruction
-- tags
+-
+- ### Information model
+	- Action, Category, Archive
+	-
+- ### Tags
 	- list of tags
 		- #情绪/
 	- All tags
 		- /project ?
 	- use "/" to structure the tags as folder system
 	- merging tags?
--
+	-
+- ### Action Structure
+- #### Page Structure
+	- ## Title
+		- ##### Explanation, Specification
+	- ### Category Structure
+- #### Archive Structure

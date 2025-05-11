@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["内容脚本/美国系列"]
 
  ;; Set flashcards interval.
  ;; Expected value:
